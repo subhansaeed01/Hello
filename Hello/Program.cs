@@ -36,7 +36,7 @@ namespace Hello
             int [] aray = new int[]{16,17,10,7,9,6,3};
             int n = aray.Length;
             lead.printleader(aray,n);
-            Console.WriteLine("hello subhan")
+            Console.WriteLine("hello subhan");
        
             Console.ReadLine();
         }
