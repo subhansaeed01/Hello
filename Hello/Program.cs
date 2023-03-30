@@ -38,7 +38,7 @@ namespace Hello
             lead.printleader(aray,n);
             Console.WriteLine("Hello Subhan how are you dear?");
             Console.WriteLine("hey petter whats going on? are you busy or not?");
-            Console.WriteLine("Hey herry whats going on?");
+            
        
             Console.ReadLine();
         }
